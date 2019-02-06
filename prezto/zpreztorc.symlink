@@ -7,6 +7,7 @@ zstyle ':prezto:load' pmodule \
   'git' \
   'prompt' \
   'syntax-highlighting' \
+  'history' \
   'history-substring-search' \
 
 zstyle ':prezto:module:prompt' theme 'powerlevel9k'

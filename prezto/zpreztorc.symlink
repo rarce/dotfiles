@@ -4,12 +4,11 @@ zstyle ':prezto:load' pmodule \
   'directory' \
   'utility' \
   'completion' \
-  'git' \
   'prompt' \
   'syntax-highlighting' \
   'history' \
   'history-substring-search' \
 
-zstyle ':prezto:module:prompt' theme 'powerlevel9k'
+zstyle :prezto:module:prompt theme powerlevel10k
 
 POWERLEVEL9K_MODE=nerdfont-complete

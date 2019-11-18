@@ -2,7 +2,8 @@ cask_args appdir: '/Applications'
 
 tap 'caskroom/fonts'
 
-brew 'kubernetes-helm'
+brew 'helm'
+brew 'htop'
 brew 'kubectl'
 brew 'openssl'
 brew 'node'
